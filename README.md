@@ -21,7 +21,7 @@
 
 
 ## 🗞️ News
-- **`2025-12-30`**: ✨ *Codes, Dataset and Weights are coming soon!* *Stay tuned for updates*.
+- **`2025-12-30`**: ✨ ***Codes, Dataset and Weights are coming soon! Stay tuned for updates***.
 - **`2025-12-30`**: 🔥 We released our [Project Page](https://robo-dopamine.github.io/) of **Robo-Dopamine**.
 
 
@@ -35,12 +35,7 @@
 
 ## 🤖 Overview
 
-**Robo-Dopamine** is composed of two core components: **(a) Dopamine-Reward Modeling Method** and **(b) Dopamine-RL Training Framework**. 
-**(a)** At the heart of our reward modeling is to build the General Reward Model (GRM), a vision-language model that is prompted with a task description and conditioned on multi-view images of initial, 
-goal, "BEFORE," and "AFTER" states to predict a relative progress or regress hop. To ensure a stable and accurate signal, we employ **Multi-Perspective Progress Fusion**, which combines incremental, 
-forward-anchored, and backward-anchored predictions into a final fused reward. 
-**(b)** The Dopamine-RL framework first adapts the pre-trained GRM to a novel task using a single demonstration, i.e., **One-Shot GRM Adaptation**. 
-Subsequently, it uses a theoretically-sound **Policy-Invariant Reward Shaping** method to convert the GRM's dense output into a reward signal that accelerates learning without altering the optimal policy. 
+**Robo-Dopamine** is composed of two core components: ***(a) Dopamine-Reward Modeling Method --*** At the heart of our reward modeling is to build the General Reward Model (GRM), a vision-language model that is prompted with a task description and conditioned on multi-view images of initial, goal, "BEFORE," and "AFTER" states to predict a relative progress or regress hop. To ensure a stable and accurate signal, we employ *Multi-Perspective Progress Fusion*, which combines incremental, forward-anchored, and backward-anchored predictions into a final fused reward. And ***(b) Dopamine-RL Training Framework --*** The Dopamine-RL framework first adapts the pre-trained GRM to a novel task using a single demonstration, i.e., *One-Shot GRM Adaptation*. Subsequently, it uses a theoretically-sound *Policy-Invariant Reward Shaping* method to convert the GRM's dense output into a reward signal that accelerates learning without altering the optimal policy. 
 This approach is universally compatible with a wide range of RL algorithms.
 
 <div align="center"> 
