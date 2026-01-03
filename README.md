@@ -47,10 +47,10 @@ This approach is universally compatible with a wide range of RL algorithms.
 
 If you find our work helpful, feel free to cite it:
 ```
-@article{tan2025robodopamine,
-    title={Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation}, 
-    author={Tan, Huajie and Chen, Sixiang and Xu, Yijie and Wang, Zixiao and Ji, Yuheng and Chi, Cheng and Lyu, Yaoxu and Zhao, Zhongxia and Chen, Xiansheng and Co, Peterson and Xie, Shaoxuan and Yao, Guocai and Wang, Pengwei and Wang, Zhongyuan and Zhang, Shanghang},
-    journal={arXiv preprint arXiv:2512.23703},
-    year={2025}
+@article{tan2025robo,
+  title={Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation},
+  author={Tan, Huajie and Chen, Sixiang and Xu, Yijie and Wang, Zixiao and Ji, Yuheng and Chi, Cheng and Lyu, Yaoxu and Zhao, Zhongxia and Chen, Xiansheng and Co, Peterson and others},
+  journal={arXiv preprint arXiv:2512.23703},
+  year={2025}
 }
 ```
