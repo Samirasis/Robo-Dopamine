@@ -55,9 +55,9 @@ This approach is universally compatible with a wide range of RL algorithms.
 
 | Models                   | Checkpoint                                                     | Description                                           | 
 |--------------------------|----------------------------------------------------------------|-------------------------------------------------------|
-| Robo-Dopamine-GRM-3B     | [🤗 tanhuajie2001/Robo-Dopamine-GRM-3B](https://huggingface.co/tanhuajie2001/Robo-Dopamine-GRM-3B)   | Full-trained GRM from RoboBrain-2.0-3B      | 
-| Robo-Dopamine-GRM-8B     | 🤗 ***Coming soon ...***  | Full-trained GRM from RoboBrain-2.0-8B      |
-| Robo-Dopamine-GRM-8B-Pro | 🤗 ***Coming soon ...***  | Full-trained GRM from RoboBrain-2.5-8B      |
+| GRM-3B     | [🤗 tanhuajie2001/Robo-Dopamine-GRM-3B](https://huggingface.co/tanhuajie2001/Robo-Dopamine-GRM-3B)   | Full-trained GRM from RoboBrain-2.0-3B      | 
+| GRM-8B     | 🤗 ***Coming soon ...***  | Full-trained GRM from RoboBrain-2.0-8B      |
+| GRM-8B-Pro | 🤗 ***Coming soon ...***  | Full-trained GRM from RoboBrain-2.5-8B      |
 
 ## 🛠️ Setup
 
